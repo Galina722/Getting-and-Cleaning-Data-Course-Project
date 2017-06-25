@@ -6,6 +6,9 @@ The goal of this project is to prepare tidy data set for further analysis.
 Original data set was downloaded from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+The data in this dataset represent data collected from the accelerometers from the Samsung Galaxy S smartphones. A full description is available at the site where the data was obtained:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 Original data set comes with it's own README file and additional files describing the structure of data, i.e. features_info.txt
 
 The purpose of created R script (run_analysis.R):
